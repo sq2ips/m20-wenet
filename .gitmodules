@@ -1,0 +1,3 @@
+[submodule "wenet"]
+	path = wenet
+	url = https://github.com/sq2ips/wenet-m20.git
